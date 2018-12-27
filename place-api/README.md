@@ -15,4 +15,8 @@ test_output.txt示例如下
 北京航空航天大学    a599ab02adf1c3923ce23157      北京市 北京市 海淀区   北京市海淀区学院路37号
 西湖断桥    69750ad0eca032122fb96d67    浙江省 杭州市 西湖区 杭州市西湖区
 ```
+## 使用说明
+com.moowei.map.PlaceSearchForBaiduMap类的main方法为程序入口，执行之后会启动一个JAVA图像化界面，以便于小白用户使用。最好的方式是使用exe4j将该项目封装成可以执行exe程序。可以双击运行。<br>
+PlaceAPI.zip即为封装好的可执行程序，解压之后双击A.exe即可执行。<br>
+exe4j_64.zip为exe4j安装包
 
